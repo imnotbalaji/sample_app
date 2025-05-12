@@ -62,7 +62,7 @@ group :test do
   gem "selenium-webdriver", "4.2.0"
 
   # WebDriver for Chrome [https://github.com/titusfortner/webdrivers]
-  gem "webdrivers", "5.0.0"
+  gem "webdrivers", "5.3.1"
 
   # Rails Controller Testing [https://github.com/rails/rails-controller-testing]
   gem "rails-controller-testing", "1.0.5"
