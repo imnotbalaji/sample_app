@@ -59,7 +59,7 @@ group :test do
   # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
   gem "capybara", "3.37.1"
   # Selenium WebDriver for browser automation [https://github.com/SeleniumHQ/selenium]
-  gem "selenium-webdriver", "4.2.0"
+  gem "selenium-webdriver", "4.32.0"
 
   # WebDriver for Chrome [https://github.com/titusfortner/webdrivers]
   gem "webdrivers", "5.0.0"
