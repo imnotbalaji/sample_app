@@ -2,6 +2,8 @@ ENV["RAILS_ENV"] ||= "test"
 require_relative "../config/environment"
 require "rails/test_help"
 require "minitest/reporters"
+# Configure Minitest to use the SpecReporter for more detailed test output
+# This makes test results easier to read with descriptive formatting
 Minitest::Reporters.use! 
 Minitest::Reporters::SpecReporter.new
 
