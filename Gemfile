@@ -79,7 +79,7 @@ group :test do
   gem "minitest-reporters", ">=1.5.1"
 
   # Guard for watching file changes [https://github.com/guard/guard]
-  gem "guard", "2.18.0"
+  gem "guard", "2.19.1"
 
   # Guard for Minitest [https://github.com/guard/guard-minitest]
   gem "guard-minitest", "2.4.6"
