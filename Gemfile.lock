@@ -76,6 +76,8 @@ GEM
       public_suffix (>= 2.0.2, < 7.0)
     ansi (1.5.0)
     ast (2.4.3)
+    autoprefixer-rails (10.4.21.0)
+      execjs (~> 2)
     awesome_print (1.9.2)
     base64 (0.2.0)
     benchmark (0.4.0)
@@ -83,6 +85,9 @@ GEM
     bindex (0.8.1)
     bootsnap (1.12.0)
       msgpack (~> 1.2)
+    bootstrap-sass (3.4.1)
+      autoprefixer-rails (>= 5.2.1)
+      sassc (>= 2.0.0)
     brakeman (7.0.2)
       racc
     builder (3.3.0)
@@ -107,6 +112,7 @@ GEM
     drb (2.2.1)
     error_highlight (0.7.0)
     erubi (1.13.1)
+    execjs (2.10.0)
     ffi (1.17.2)
     formatador (1.1.0)
     globalid (1.2.1)
@@ -349,6 +355,7 @@ PLATFORMS
 DEPENDENCIES
   awesome_print
   bootsnap (= 1.12.0)
+  bootstrap-sass (= 3.4.1)
   brakeman
   capybara (= 3.37.1)
   debug

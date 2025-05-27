@@ -2,6 +2,8 @@ source "https://rubygems.org"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.2.2", ">= 7.2.2.1"
+# Bootstrap for Rails [https://github.com/twbs/bootstrap-sass]
+gem "bootstrap-sass", "3.4.1"
 # Use sassc-rails for processing SCSS files [https://github.com/sass/sassc-rails]
 gem "sassc-rails", "2.1.2"
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
