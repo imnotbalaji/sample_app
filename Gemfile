@@ -7,7 +7,7 @@ gem "bootstrap-sass", "3.4.1"
 # Use sassc-rails for processing SCSS files [https://github.com/sass/sassc-rails]
 gem "sassc-rails", "2.1.2"
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
-gem "sprockets-rails", "3.4.2"
+gem "sprockets-rails", "3.5.2"
 # Use JavaScript with ESM import maps [https://github.com/rails/importmap-rails]
 gem "importmap-rails", "1.1.0"
 # Hotwire's SPA-like page accelerator [https://turbo.hotwired.dev]
