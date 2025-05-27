@@ -15,7 +15,7 @@ gem "turbo-rails", "1.1.1"
 # Hotwire's modest JavaScript framework [https://stimulus.hotwired.dev]
 gem "stimulus-rails", "1.0.4"
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
-gem "jbuilder", "2.11.5"
+gem "jbuilder", "2.13.0"
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", ">= 5.0"
 # Speed up boot times with Rails caching [https://github.com/rails/bootsnap]
