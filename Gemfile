@@ -11,7 +11,7 @@ gem "sprockets-rails", "3.4.2"
 # Use JavaScript with ESM import maps [https://github.com/rails/importmap-rails]
 gem "importmap-rails", "1.1.0"
 # Hotwire's SPA-like page accelerator [https://turbo.hotwired.dev]
-gem "turbo-rails", "1.1.1"
+gem "turbo-rails", "2.0.16"
 # Hotwire's modest JavaScript framework [https://stimulus.hotwired.dev]
 gem "stimulus-rails", "1.0.4"
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
